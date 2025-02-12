@@ -15,6 +15,9 @@
 ### Project Overview
 This data analysis aims to provide insights into Fintech Startups in Nigeria, through research to guide product offerings, Pricing, Marketing Strategy, and Target Customer Focus.
 
+![Fintech Report Review](https://github.com/user-attachments/assets/97fc012e-0c0b-4048-bb09-66fe73150b46)
+
+
 ### Data Source
 Fintech Data: The primary dataset used for this analysis is the "Nigerian Fintech Insights Dataset.xlsx" containing information about Fintech operations in Nigeria.
 
